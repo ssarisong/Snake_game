@@ -1,0 +1,14 @@
+﻿  abcd.c
+C:\Users\송수진\Desktop\과제\2-1\프로그래밍랩\텀프로젝트\2071361 송수진\abcd\abcd.c(40,1): warning C4005: 'LEFT': 매크로 재정의
+C:\Users\송수진\Desktop\과제\2-1\프로그래밍랩\텀프로젝트\2071361 송수진\abcd\abcd.c(32): message : 'LEFT'의 이전 정의를 참조하십시오.
+C:\Users\송수진\Desktop\과제\2-1\프로그래밍랩\텀프로젝트\2071361 송수진\abcd\abcd.c(41,1): warning C4005: 'RIGHT': 매크로 재정의
+C:\Users\송수진\Desktop\과제\2-1\프로그래밍랩\텀프로젝트\2071361 송수진\abcd\abcd.c(33): message : 'RIGHT'의 이전 정의를 참조하십시오.
+C:\Users\송수진\Desktop\과제\2-1\프로그래밍랩\텀프로젝트\2071361 송수진\abcd\abcd.c(42,1): warning C4005: 'UP': 매크로 재정의
+C:\Users\송수진\Desktop\과제\2-1\프로그래밍랩\텀프로젝트\2071361 송수진\abcd\abcd.c(30): message : 'UP'의 이전 정의를 참조하십시오.
+C:\Users\송수진\Desktop\과제\2-1\프로그래밍랩\텀프로젝트\2071361 송수진\abcd\abcd.c(43,1): warning C4005: 'DOWN': 매크로 재정의
+C:\Users\송수진\Desktop\과제\2-1\프로그래밍랩\텀프로젝트\2071361 송수진\abcd\abcd.c(31): message : 'DOWN'의 이전 정의를 참조하십시오.
+C:\Users\송수진\Desktop\과제\2-1\프로그래밍랩\텀프로젝트\2071361 송수진\abcd\abcd.c(45,1): warning C4005: 'ESC': 매크로 재정의
+C:\Users\송수진\Desktop\과제\2-1\프로그래밍랩\텀프로젝트\2071361 송수진\abcd\abcd.c(25): message : 'ESC'의 이전 정의를 참조하십시오.
+C:\Users\송수진\Desktop\과제\2-1\프로그래밍랩\텀프로젝트\2071361 송수진\abcd\abcd.c(235,12): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\송수진\Desktop\과제\2-1\프로그래밍랩\텀프로젝트\2071361 송수진\abcd\abcd.c(248,12): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  abcd.vcxproj -> C:\Users\송수진\Desktop\과제\2-1\프로그래밍랩\텀프로젝트\2071361 송수진\Debug\abcd.exe
